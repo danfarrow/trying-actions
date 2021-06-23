@@ -1,4 +1,1 @@
 hello!
-added a line
-a merge conflict
-adding a change in report
